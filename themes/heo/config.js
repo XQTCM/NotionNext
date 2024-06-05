@@ -17,11 +17,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享中医',
   HEO_HERO_TITLE_2: '与临床思维',
-  HEO_HERO_TITLE_3: '探索经络之迷Jing
-LuoMI.COM',
+  HEO_HERO_TITLE_3: '探索经络之迷JingLuoMI.COM',
   HEO_HERO_TITLE_4: '古典与创新的融合',
-  HEO_HERO_TITLE_5: 'jingluomi
-经络迷-发现经络之美',
+  HEO_HERO_TITLE_5: 'jingluomi经络迷-发现经络之美',
   HEO_HERO_TITLE_LINK: 'https://jingluomi.com',
 
   // 英雄区显示三个置顶分类
